@@ -1,21 +1,21 @@
 {
     "about": {
-        "message": "About"
+        "message": "Sobre"
     },
     "absolute": {
         "message": "Absolute"
     },
     "accept": {
-        "message": "Accept"
+        "message": "Aceitar"
     },
     "allYourSettingsWillBeErasedAndCanTBeRecovered": {
         "message": "All your settings will be erased and can't be recovered"
     },
     "always": {
-        "message": "Always"
+        "message": "Sempre"
     },
     "appearance": {
-        "message": "Appearance"
+        "message": "Aparencia"
     },
     "areYouSureYouWantToDeleteTheSelectedWebsiteSettings": {
         "message": "Are you sure you want to delete the selected website settings?"
@@ -27,64 +27,64 @@
         "message": "Are you sure you want to import the data?"
     },
     "audioFormats": {
-        "message": "Audio formats"
+        "message": "Formatos de audio"
     },
     "backupAndReset": {
         "message": "Backup & reset"
     },
     "bitness": {
-        "message": "Bitness"
+        "message": "Bit"
     },
     "bluelight": {
-        "message": "Bluelight"
+        "message": "Luz Azul"
     },
     "brightness": {
         "message": "Brightness"
     },
     "browser": {
-        "message": "Browser"
+        "message": "Navegador"
     },
     "cancel": {
-        "message": "Cancel"
+        "message": "Cancelar"
     },
     "colorTemperature": {
-        "message": "Color temperature"
+        "message": "Temperatura de cor"
     },
     "contrast": {
-        "message": "Contrast"
+        "message": "Contraste"
     },
     "cores": {
         "message": "Cores"
     },
     "dateAndTime": {
-        "message": "Date & time"
+        "message": "Data & hora"
     },
     "description": {
         "message": "Dark Mode, read at night. Bluelight filter for every website. Relax your eyes at night and day."
     },
     "device": {
-        "message": "Device"
+        "message": "dispositivo"
     },
     "disabled": {
         "message": "Disabled"
     },
     "dynamic": {
-        "message": "Dynamic"
+        "message": "Dinamico"
     },
     "dynamicFilter": {
-        "message": "Dynamic filter"
+        "message": "Filtro dinamico"
     },
     "dynamicTheme": {
-        "message": "Dynamic theme"
+        "message": "Tema dinamico"
     },
     "excludeThisWebsite": {
         "message": "Exclude this website"
     },
     "exportSettings": {
-        "message": "Export settings"
+        "message": "Exportar configurações"
     },
     "extension": {
-        "message": "Extension"
+        "message": "Extenção"
     },
     "filters": {
         "message": "Filters"
@@ -93,7 +93,7 @@
         "message": "Flash"
     },
     "general": {
-        "message": "General"
+        "message": "Geral"
     },
     "global": {
         "message": "Global"
@@ -102,28 +102,28 @@
         "message": "GPU"
     },
     "grayscale": {
-        "message": "Grayscale"
+        "message": "Escada de Cinza"
     },
     "hardwareInformation": {
         "message": "Hardware information"
     },
     "hideMadeWithLove": {
-        "message": "Hide \"Made with ❤...\""
+        "message": "Ocultar (feito com ❤...)"
     },
     "importSettings": {
-        "message": "Import settings"
+        "message": "Importar  configurações"
     },
     "invert": {
-        "message": "Invert"
+        "message": "Inverter"
     },
     "invertColors": {
-        "message": "Invert colors"
+        "message": "Inverter cores"
     },
     "language": {
-        "message": "Language"
+        "message": "idioma"
     },
     "languages": {
-        "message": "Languages"
+        "message": "idiomas"
     },
     "mode": {
         "message": "Mode"
@@ -141,49 +141,49 @@
         "message": "OK"
     },
     "onlyEnableForThisWebsite": {
-        "message": "Only enable for this website"
+        "message": "Somente habilite para esse Site"
     },
     "os": {
         "message": "OS"
     },
     "permissionIsNotGranted": {
-        "message": "Permission is not granted"
+        "message": "Permição não foi concedida"
     },
     "permissions": {
-        "message": "Permissions"
+        "message": "Permições"
     },
     "platform": {
-        "message": "Platform"
+        "message": "Plataforma"
     },
     "ram": {
         "message": "RAM"
     },
     "remove": {
-        "message": "Remove"
+        "message": "Remover"
     },
     "reset": {
-        "message": "Reset"
+        "message": "Resetar"
     },
     "resetAllSettings": {
-        "message": "Reset all settings"
+        "message": "Resetar todas as configurações"
     },
     "resetSettings": {
-        "message": "Reset settings?"
+        "message": "Resetar confirações??"
     },
     "saveAs": {
-        "message": "Save as..."
+        "message": "Salvar como..."
     },
     "schedule": {
         "message": "Schedule"
     },
     "screen": {
-        "message": "Screen"
+        "message": "Tela"
     },
     "sepia": {
         "message": "Sepia"
     },
     "settings": {
-        "message": "Settings"
+        "message": "Configurações"
     },
     "softwareInformation": {
         "message": "Software information"
@@ -192,7 +192,7 @@
         "message": "Something went wrong. Try reloading the page."
     },
     "styles": {
-        "message": "Styles"
+        "message": "Estilos"
     },
     "successfullyImportedSettings": {
         "message": "Successfully imported settings"
@@ -201,19 +201,19 @@
         "message": "Sunset to sunrise"
     },
     "systemPeference": {
-        "message": "System preference"
+        "message": "Preferencias do sistema"
     },
     "textEditorMode": {
-        "message": "Text editor mode"
+        "message": "Mdodo editor de testo"
     },
     "theListIsEmpty": {
         "message": "The list is empty"
     },
     "thePageHOSTNAMEisProtectedByBrowser": {
-        "message": "The page HOSTNAME is protected by browser."
+        "message": "A página HOSTname é protegido pelo navegador."
     },
     "theme": {
-        "message": "Theme"
+        "message": "Tema"
     },
     "thisIsAnExperimentalFeatureDoYouWantToActivateIt": {
         "message": "This is an experimental feature. Do you want to activate it?"
@@ -237,7 +237,7 @@
         "message": "Turn on for this website"
     },
     "type": {
-        "message": "Type"
+        "message": "Tipo"
     },
     "use24HourFormat": {
         "message": "Use 24-hour format"
@@ -249,7 +249,7 @@
         "message": "Use settings for all websites"
     },
     "version": {
-        "message": "Version"
+        "message": "Versão"
     },
     "videoFormats": {
         "message": "Video formats"
@@ -258,6 +258,6 @@
         "message": "Websites"
     },
     "yes": {
-        "message": "Yes"
+        "message": "Sim"
     }
 }
